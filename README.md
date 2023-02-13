@@ -8,7 +8,7 @@ A computer nerd who is always willing to learn and face challenges
 ## 💻 Skills
 problem solving of course 💥
 
-###  Top Skills 🍳
+###  What I Cook 🍳
 
 <!-- Add a bar chart to display your top skills -->
 <p align="center">
