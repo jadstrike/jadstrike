@@ -10,16 +10,12 @@ problem solving of course 💥
 
 ###  What I Cook 🍳
 
-<!-- Add a bar chart to display your top skills -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=tokyonight" alt="Top Skills">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-- A list of technologies used in the project.
+
 
 ## 📞 Contact Me
 - Email: jadstrike@gmail.com
