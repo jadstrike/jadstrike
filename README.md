@@ -13,8 +13,8 @@ problem solving of course 💥
 ###  What I Cook 🍳
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=funky" alt="Top Skills">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=synthwave" alt="Top Skills">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 ## 📞 Contact Me
