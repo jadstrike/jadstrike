@@ -1,5 +1,5 @@
 
- <h1>Hola Issac Khant Here 👨‍🚀</h1>  
+ <h1 style="color: red">Hola Issac Khant Here 👨‍🚀</h1>  
   
 
 ### <div align="center">🍿A computer nerd who is always willing to learn and face challenges  🚀💻</div>  
@@ -7,8 +7,8 @@
 
 
 
-### A skill that flows in my blood 👀  
-- ⚡ Problem Solving of course ⚡️  
+### <h2>A skill that flows in my blood 👀</h2>  
+- <h3>⚡ Problem Solving of course ⚡️</h3>  
   
 
 <br/>  
