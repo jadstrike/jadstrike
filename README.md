@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://i.gifer.com/7SvE.gif" align="center" style="width: 100%" />
+ <h1>Hola Issac Khant Here ⚡️</h1>
+
+[![GitHub followers](https://img.shields.io/github/followers/jadstrike.svg?style=social&label=Follow&maxAge=2592000&color=brightgreen)](https://github.com/jadstrike)
 </div>  
   
 
@@ -90,17 +92,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jadstrike&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=synthwave" alt="Top Skills">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=dark"</div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
   
 
@@ -114,7 +110,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 
 
