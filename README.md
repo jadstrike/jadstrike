@@ -96,7 +96,7 @@
 
 ## 📞 Contact Me
 - Email: jadstrike@gmail.com
-- Website: https://issackhant.vercel.app/ -->
+- Website: https://issackhant.vercel.app/
   
 
 <br/>  
