@@ -1,5 +1,5 @@
 
- <h1 style="color: red">Hola Issac Khant Here 👨‍🚀</h1>  
+ <h1 style="color: red;">Hola Issac Khant Here 👨‍🚀</h1>  
   
 
 ### <div align="center">🍿A computer nerd who is always willing to learn and face challenges  🚀💻</div>  
@@ -90,7 +90,7 @@
 
 ## Github Stats  
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=synthwave" alt="Top Skills">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=dark"</div>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=synthwave"</div>  
 
 <br/>  
 
