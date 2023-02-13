@@ -8,7 +8,7 @@ A computer nerd who is always willing to learn and face challenges
 ## 💻 Skills
 problem solving of course 💥
 
-### 📊 Top Skills 
+###  Top Skills 🍳
 
 <!-- Add a bar chart to display your top skills -->
 <p align="center">
@@ -22,8 +22,6 @@ problem solving of course 💥
 - A list of technologies used in the project.
 
 ## 📞 Contact Me
-- Email: your_email
-- Website: your_website
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/your_linkedin)
-
+- Email: jadstrike@gmail.com
+- Website: https://issackhant.vercel.app/
 
