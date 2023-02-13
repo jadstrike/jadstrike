@@ -1,8 +1,5 @@
-<div align="center">
- <h1>Hola Issac Khant Here ⚡️</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/jadstrike.svg?style=social&label=Follow&maxAge=2592000&color=brightgreen)](https://github.com/jadstrike)
-</div>  
+ <h1>Hola Issac Khant Here 👨‍🚀</h1>  
   
 
 ### <div align="center">🍿A computer nerd who is always willing to learn and face challenges  🚀💻</div>  
@@ -97,18 +94,14 @@
 
 <br/>  
 
-
+## 📞 Contact Me
+- Email: jadstrike@gmail.com
+- Website: https://issackhant.vercel.app/ -->
   
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
+ 
 ----
 
 
