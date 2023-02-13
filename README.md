@@ -1,7 +1,6 @@
-#Hola Issac Khant Here ⚡️
+<h1>Hola Issac Khant Here ⚡️</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username.svg?style=social&label=Follow&maxAge=2592000&color=brightgreen)](https://github.com/jadstrike)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter.svg?style=social&color=1da1f2)](https://twitter.com/your_twitter)
+[![GitHub followers](https://img.shields.io/github/followers/jadstrike.svg?style=social&label=Follow&maxAge=2592000&color=brightgreen)](https://github.com/jadstrike)
 
 ## 🧑‍💼 About Me
 A brief paragraph about yourself, your background, and what you're currently doing.
@@ -12,7 +11,7 @@ A brief paragraph about yourself, your background, and what you're currently doi
 
 <!-- Add a bar chart to display your top skills -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&hide=html&layout=compact&theme=tokyonight" alt="Top Skills">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=tokyonight" alt="Top Skills">
 </p>
 
 - List your top skills
