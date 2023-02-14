@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jadstrike/jadstrike/main/profile.gif" align="center" style="width: 100%" />
+<img align="center" src="https://raw.githubusercontent.com/jadstrike/jadstrike/main/profile.gif" align="center" style="width: 100%" />
 
  <h1 align="center">Hola Issac Khant Here 👨‍🚀</h1>  
   
