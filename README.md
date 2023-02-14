@@ -1,4 +1,5 @@
-https://rishavanand.github.io/jadstrike/profile.gif
+<img src="https://raw.githubusercontent.com/jadstrike/jadstrike/main/profile.gif" align="center" style="width: 100%" />
+
  <h1>Hola Issac Khant Here 👨‍🚀</h1>  
   
 
