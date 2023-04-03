@@ -4,6 +4,7 @@
   
 
 ### <div align="center">🍿A computer nerd who is always willing to learn and face challenges  🚀💻</div>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadstrike&label=Profile%20views&color=0e75b6&style=flat" alt="jadstrike" /> </p>
   
 
 
