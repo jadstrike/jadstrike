@@ -1,27 +1,24 @@
-# Hi there, I'm I am Khant Zwe Naing 👋
+# Hi, I'm Khant Zwe Naing 👋
 
 I'm a Software Developer 🧑🏻‍💻 based in Myanmar.
 
-- 📍 Currently Working On
+## 👨‍💻 Currently Working On
 
-I'm currently working on Coffeeship project, where I'm FrontEnd dev. This project involves advanced frontend design and interactive user ordering exprience. I'm using react framework to develop this project.
+I am currently working on the Coffeeship project as a FrontEnd Developer. My role involves developing advanced front-end designs and creating an interactive user ordering experience. I'm using the React framework to build this project.
 
-- 🍀 Currently Learning
+## 🌱 Currently Learning
 
-I'm always learning and staying up-to-date with the latest trends in my field. Currently, I'm learning NextJS and GO to enhance my dev skills. I'm also interested in exploring artificial intelligence and UI/UX.
+I believe in continuous learning and keeping up-to-date with the latest trends in my field. Currently, I'm learning NextJS and GO to enhance my development skills. Additionally, I'm interested in exploring the fields of artificial intelligence and UI/UX.
 
-- ⚽️ Hobbies
+## ⚽️ Hobbies
 
-When I'm not coding, I enjoy listening calm music and going out to nature. Some of my favorite hobbies include playing football, which help my heath.
+When I'm not coding, I enjoy listening to calming music and spending time in nature. My favorite hobby is playing football, which helps me maintain a healthy lifestyle.
 
-- 📧 Get in Touch
+## 📧 Get in Touch
 
 If you're interested in learning more about my work or have any questions, feel free to reach out to me at issaciscoding@gmail.com.
 
-Thanks for stopping by!
-
-
-
+Thank you for visiting my profile!
 
 <!-- <div align="center"><img  src="https://raw.githubusercontent.com/jadstrike/jadstrike/main/profile.gif" align="center" style="width: 100%" /></div>
 
