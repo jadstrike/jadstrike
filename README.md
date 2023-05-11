@@ -1,6 +1,6 @@
 # Hi there, I'm I am Khant Zwe Naing 👋
 
-I'm a Full Stack developer based in Myanmar.
+I'm a developer based in Myanmar.
 
 ## Currently Working On
 
