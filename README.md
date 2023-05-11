@@ -2,7 +2,7 @@
 
 I'm a Software Developer 🧑🏻‍💻 based in Myanmar.
 
-## 👨‍💻 Currently Working On
+## 👨‍💻 Currently Working
 
 I am currently working on the Coffeeship project as a FrontEnd Developer. My role involves developing advanced front-end designs and creating an interactive user ordering experience. I'm using the React framework to build this project.
 
