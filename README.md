@@ -114,7 +114,9 @@ Thank you for visiting my profile!
 ## Github Stats  
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadstrike&hide=html&layout=compact&theme=synthwave" alt="Top Skills">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadstrike&count_private=true&line_height=27&show_icons=true&theme=synthwave">  -->
+<div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadstrike&&theme=synthwave" alt="jadstrike" />
+</div>
  </p>
 
 <br/>  
