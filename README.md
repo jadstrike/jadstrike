@@ -2,13 +2,13 @@
 
 I'm a Software Developer 🧑🏻‍💻 based in Myanmar.
 
-## 👨‍💻 Currently Working
+## 👨‍💻 What I do?
 
-I am now remotely working as a Mid-level frontend developer at RA23(A startup as well as a software house based in Mandalay) and also on various projects as a FrontEnd Developer. My role involves developing advanced front-end designs and creating an interactive and amazing user experience. I'm using NextJS in most of my Projects.
+Obviously, I find solution to solve problems!XD Coding >< . I'm doing Web Hot Stff 🥵  most of the time for now. Next JS and Astro are my go tos.
 
 ## 🌱 Currently Learning
 
-I believe in continuous learning and keeping up-to-date with the latest trends in my field. Currently, I'm learning NextJS and GO to enhance my development skills. Additionally, I'm interested in exploring the fields of artificial intelligence and UI/UX.
+I believe in continuous learning and keeping up-to-date with the latest trends in my field. Currently, I'm learning Swift and GO to enhance my development skills and in touch with different fields. Additionally, I'm interested in exploring the fields of artificial intelligence and UI/UX.
 
 ## ⚽️ Hobbies
 
