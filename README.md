@@ -2,9 +2,8 @@
 
 I'm a Software Developer 🧑🏻‍💻 based in Myanmar.
 
-## 👨‍💻 What I do?
-
-Obviously, I find solution to solve problems!XD Coding >< . I'm doing Web Hot Stff 🥵  most of the time for now. Next JS and Astro are my go tos.
+## 👨‍💻 Currently Working
+I am now remotely working as a frontend developer on various projects. My role involves developing advanced front-end designs and creating an interactive and amazing user experience. I'm using NextJS in most of my Projects.
 
 ## 🌱 Currently Learning
 
