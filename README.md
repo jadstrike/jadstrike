@@ -1,6 +1,6 @@
 # Hi, I'm Khant Zwe Naing 👋
 
-I'm a Software Developer 🧑🏻‍💻 based in Myanmar.
+I'm a Software Developer 🧑🏻‍💻.
 
 ## 👨‍💻 Currently Working
 I am now remotely working as a frontend developer on various projects. My role involves developing advanced front-end designs and creating an interactive and amazing user experience. I'm using NextJS in most of my Projects.
